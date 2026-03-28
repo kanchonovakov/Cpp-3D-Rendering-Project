@@ -18,7 +18,7 @@ Because this was a university group project, the raw source code is kept private
 
 As you can see, the code successfully calculates multi-source lighting, smooth sphere rendering, and complex floor reflections.
 
-![Final Rendered Scene](rendered_scene.jpg)
+![Final Rendered Scene](rendered_scene.png)
 
 ---
 *Note: This project demonstrates my ability to read existing codebases, understand complex OOP architectures in C++, and write functional logic to achieve a specific technical result.*
